@@ -54,7 +54,7 @@ Le document PDF inclus dans ce dépôt couvre l’essentiel d’Excel en 5 chapi
 - **Auteur** : Josué Biyayi  
 - **Lieu** : Kinshasa, RDC  
 - **Centre** : The Repentance Center  
-- **Contact** : [biyayinux@gmail.com](mailto:biyayinux@gmail.com)
+- **Contact** : [biyayinux@gmail.com](mailto:biyayinux@ebolatech.blog)
 
 ---
 
